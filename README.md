@@ -35,7 +35,9 @@ cd math-assistant-pix2text
 python -m venv .venv
 .venv\Scripts\activate
 
-pip install pillow sympy pix2text ```
+pip install pillow sympy pix2text
+
+```
 
 🎓 Назначение
 
