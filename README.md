@@ -29,7 +29,7 @@
 ## ▶️ Установка
 
 ```
-git clone https://github.com/ТВОЙ_НИК/math-assistant-pix2text.git
+git clone https://github.com/fedukliza21-dot/math-assistant-pix2text.git
 cd math-assistant-pix2text
 
 python -m venv .venv
