@@ -28,7 +28,7 @@
 
 ## ▶️ Установка
 
-```bash
+```
 git clone https://github.com/ТВОЙ_НИК/math-assistant-pix2text.git
 cd math-assistant-pix2text
 
