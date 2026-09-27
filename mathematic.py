@@ -168,7 +168,7 @@ class MathApp:
                 eq = Eq(sympify(left), sympify(right))
                 result = solve(eq, x)
 
-                self.output.insert(tk.END, f"Решение: {result}")
+                self.output.insert(tk.END, f" Решение: {result}")
                 return
 
             expr = self.parse(expr)
